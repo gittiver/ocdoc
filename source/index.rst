@@ -6,7 +6,8 @@
 Welcome to the opencoin documentation!
 ======================================
 
-Here you will find documentation on the differnt aspects of the opencoin protocol and its implementations 
+Here you will find documentation on the different aspects of the opencoin 
+protocol and its implementations 
 
 .. toctree::
    :maxdepth: 2
